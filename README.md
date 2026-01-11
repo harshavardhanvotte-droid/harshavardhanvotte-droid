@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Sai Harsha Vardhan Votte  
 
-<!--
-**harshavardhanvotte-droid/harshavardhanvotte-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Full-Stack Developer (In Progress)
+🎓 College Student  
+💻 Passionate about building intelligent web applications  
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- HTML, CSS, JavaScript  
+- Node.js  
+- Python  
+- SQL  
+- Data Structures & Algorithms  
+- Machine Learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I’m Doing
+- Building full-stack web projects  
+- Learning AI & Machine Learning  
+- Practicing coding and problem-solving  
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/sai-harsha-vardhan-votte-0a1790341
